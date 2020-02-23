@@ -9,3 +9,9 @@ This assignment was a bit more difficult; I could not get the cat name to bring 
 ## Assignment 3
 
 This assignment was a bit more difficult then the first, I did not know what you wanted me to use the IF as so I left it out.  
+
+## Assignment 4
+
+This assignment was a one of the easier one but not as easy as the first, I did have trouble with putting the AVG in the right place. 
+
+
