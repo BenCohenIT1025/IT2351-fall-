@@ -1,1 +1,1 @@
-a
+Creating a table was not as hard as it sounds. I only ran into a few problems with the primary key field, I decided to create an ID column that I will bring to each table for joins. The table I created is called Adjuncts and it has 5 rows including the ID column. The adjuncts to beer are what give it a unique flavor and each row has the most popular of the adjuncts for that field. 
