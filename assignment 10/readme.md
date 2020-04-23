@@ -1,1 +1,1 @@
-a
+**For the first part of the assignment I think I got really close I just could not get the date to convert the value. I tried changing the values anyway I could think of. I know you said create a function to convert so I tried that. I just could not figure out how to add the function. When I tried to add the function code into the trigger code it wouldn’t work so I tried to create a function then have it call with the trigger function but that wouldn’t work so this is as close as I could get.** 
